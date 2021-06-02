@@ -20,3 +20,14 @@ h3 {
 a {
     color: blue;
 }
+#right {
+    float: right;
+}
+#left {
+    float: left;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: aquamarine;
+}
