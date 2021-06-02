@@ -1,0 +1,22 @@
+h1 {
+    color: aqua;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-color: rgb(20, 17, 17);
+    color: rgb(115, 115, 233);
+}
+h3 {
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+}
+.tropical {
+    font-family: fantasy;
+    font-size: 20px;
+}
+a {
+    color: blue;
+}
