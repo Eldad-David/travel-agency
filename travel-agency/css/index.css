@@ -2,7 +2,11 @@ h1 {
     color: aqua;
     font-family: fantasy;
     font-size: 50px;
+    t
+}
+header {
     text-align: center;
+    
 }
 body {
     background-color: rgb(20, 17, 17);
@@ -26,8 +30,4 @@ a {
 #left {
     float: left;
 }
-.sidebar {
-    width: 30%;
-    float: right;
-    background-color: aquamarine;
-}
+
